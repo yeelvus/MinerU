@@ -57,3 +57,9 @@ _build/
 
 
 output/
+# Local deploy artifacts
+output_direct_test/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
